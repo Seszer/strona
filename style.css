@@ -1,0 +1,67 @@
+*{margin: 0;
+ padding: 0;
+ box-sizing: border-box; 
+ }
+ body { background: url(logo.jpg);
+ 
+ }
+#ok {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color:#FFF8DC;
+}
+#obr {
+width: 100%;  
+}
+
+nav{
+	
+background-color:#993333 ;   
+    
+}
+nav a{
+display: inline-block;
+width:33%;
+padding: 10px 10px;
+color: yellow;
+text-decoration: none;
+text-align: center;
+font-size:25px;
+}
+nav a:hover {
+background-color:blue;
+font-size:26px;
+color: white;
+}
+#ok2 {
+margin-top: 30px;
+margin-bottom:30px;
+}
+h1{
+text-decoration: none;
+text-align: center;
+margin: 0 20% 50px 20%;
+border-bottom:5px solid red;
+font-size:35px;
+	}
+.lob{
+width:50%;
+margin:0 20px 20px 0;
+float:left;
+}	
+p{
+margin:10px;
+font-size:23px;
+
+}
+footer{
+background-color:#FF9999;	
+}
+#gg{
+	font-size:20px;
+	border: 3px solid black;
+	display: inline-block;
+	width:33%;
+	color:purple;
+	
+}
