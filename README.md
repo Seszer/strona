@@ -1,1 +1,1 @@
-# strona_i_konwerter
+# strona
