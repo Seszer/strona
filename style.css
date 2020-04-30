@@ -3,8 +3,10 @@
  box-sizing: border-box;
  font-family: 'Oswald', sans-serif;
  }
+html{
+	 scroll-behavior: smooth;
+ }
  body { background: url(logo.jpg);
- 
  }
 #ok {
   max-width: 1000px;
