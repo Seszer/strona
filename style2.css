@@ -3,8 +3,11 @@
  box-sizing: border-box; 
  font-family: 'Oswald', sans-serif;
  }
- body { background: url(mapa.jpg);
- 
+html{
+	 scroll-behavior: smooth;
+ }
+ body { 
+	 background: url(mapa.jpg);
  }
 #ok {
   background-color:#aaaaaa;
